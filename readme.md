@@ -1,3 +1,5 @@
+[Ir a la sección en español](#descripción-del-proyecto)
+
 # Project Overview:
 
 This small project focuses on using OOP (Object-Oriented Programming) and inheritance. Its main objective is to practice key concepts such as class creation, inheritance, and polymorphism.
@@ -142,7 +144,7 @@ Class that adds a bit of humor to the inspection process by simulating the perso
 
 ---
 
-# Descripción del Proyecto:
+## Descripción del Proyecto:
 
 Este pequeño proyecto se centra en el uso de POO (Programación Orientada a Objetos) y herencia. Su objetivo principal es practicar conceptos clave como la creación de clases, herencia y polimorfismo.
 
